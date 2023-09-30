@@ -12,7 +12,7 @@ Finished 'thread_httpx' in 23 secs - mem: 1323808
 Finished 'thread_httpx_http2' in 38 secs - mem: 1327800
 
 
-# Example.com (http)
+## Example.com (http)
 Finished 'test_async_httpx_http2' in 14 secs - mem: 46904
 Finished 'test_async_httpx' in 21 secs - mem: 36300
 Finished 'test_async_aiohttp' in 3 secs - mem: 17176
